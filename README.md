@@ -6,3 +6,8 @@ En kurs där vi kommer gå in på versionshantering, PHP, objektorienterad PHP o
 
 Moment 1 går ut på att komma igång med versionshantering här kommer jag
 använda mig av Git och Github. 
+
+- Installerat Git
+- Skapat ett konto på Github.com
+- Konfigurerat Git med namn och email
+- Ändrat commit editor till visual studio code
